@@ -26,7 +26,7 @@ VS Code, Plotly, Bootstrap, Javascript, Html, D3
 
 3. Gauge chart: To create the gauge chart, I first created my pie chart which would have the gradient colors and labels from lowest to highest frequency washings per week. I then proceeded to create my needle by created several SVG paths that would draw the needle and that correlate with the washing frequency of a subject. I then created a function that would use a switch statement to select the correct path drawing for the needle depending on the number of washing frequency. 
 
-![guage chart](https://github.com/acegal1/Belly_Button_Biodiversity/blob/main/images/gaugechart.png)
+![guage chart](https://github.com/acegal1/Belly_Button_Biodiversity/blob/main/images/gauge.png)
 
 4. Update all of the plots any time that a new sample is selected: Added an image to the jumbotron,background color , a variety of compatible colors to the webpage,
 customized font with contrast for the colors,
